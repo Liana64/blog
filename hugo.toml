@@ -1,6 +1,5 @@
 baseURL = "https://lianas.org/"
 title = "Liana S"
-theme = "hugo-bearblog"
 languageCode = "en-us"
 
 copyright = ""
