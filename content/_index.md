@@ -1,5 +1,9 @@
 +++
 title = "Home"
+menu = "main"
+weight = 1
 +++
 
-Hello. Blog [posts](/blog/)
+## Hello World
+
+This is my new blog.

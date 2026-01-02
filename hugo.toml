@@ -1,5 +1,5 @@
 baseURL = "https://lianas.org/"
-title = "Liana S"
+title = "Liana's Blog"
 languageCode = "en-us"
 
 copyright = ""
@@ -17,3 +17,8 @@ enableEmoji = true
 [module]
   [[module.imports]]
     path = "github.com/janraasch/hugo-bearblog"
+
+[[menus.main]]
+  name = "RSS"
+  url = "/index.xml"
+  weight = 99
