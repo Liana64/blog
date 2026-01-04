@@ -1,8 +1,8 @@
 baseURL = "https://lianas.org/"
-title = "Liana's Blog"
+title = "Liana Laboratories"
 languageCode = "en-us"
 
-copyright = ""
+copyright = "Powered by Hugo • © Liana"
 enableEmoji = true
 
 [params]

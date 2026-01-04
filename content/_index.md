@@ -4,6 +4,6 @@ menu = "main"
 weight = 1
 +++
 
-## Hello World
+## Hello
 
-This is my new blog.
+This is my website, or blog or something like that. Why am I doing this? I don't know. I'm a private person.
