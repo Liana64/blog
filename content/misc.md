@@ -14,3 +14,4 @@ You can reach me by [email](mailto:mail@lianas.org).
 [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
 [Ultimate Transgender Survival Guide](https://docs.google.com/document/d/1BnpZ7sJPMKiwd7lQjMzrj2uB-ZmsBB4jZIrb-O0fdzw/)
 [complexity bad](https://grugbrain.dev/)
+[Put the Data Center in the Box](https://newsletterhunt.com/emails/205961)
