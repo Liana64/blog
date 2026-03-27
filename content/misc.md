@@ -11,6 +11,8 @@ You can reach me by [email](mailto:mail@lianas.org).
 ## Interesting links
 
 **2026**
+[Who Owns Chicago](https://whoownschi.miurban-dashboards.org/map_explore)
+[Landlord Mapper](https://landlordmapper.org/en/chi/home)
 [Terms of Service, Didn't Read](https://tosdr.org/en)
 
 **2025**
