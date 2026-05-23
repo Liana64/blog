@@ -24,7 +24,7 @@ Last year I did an experiment where I tracked how I was spending my time every t
 
 I've thought about doing this experiment again, but it's pretty high effort and it seems to me like I could get the same value from just really thinking and being honest with myself about how I spend my time. I do also think that my choice of what to categorize and how it's named wasn't very skillful. Nevertheless, here's the data (which I find a little difficult to include in this post since it's embarassing but I'll include anyway since I'm practicing doing things that risk face):
 
-![Five days](../../media/five-days.png)
+![Five days](../../media/time_chart.png)
 
 *I wrote some things here that I later judged to be really dramatic and not fit for the tone of this post, so I will refrain for now*
 

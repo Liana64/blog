@@ -4,7 +4,7 @@ menu = "main"
 weight = 3
 +++
 
-- NixOS Config ([github](https://github.com/Liana64/dotfiles))
-- Homelab ([k8s-gitops](https://github.com/Liana64/k8s-gitops))
-- Containers ([github](https://github.com/Liana64/containers))
-- Notes for Red Hat Certified Architect ([github](https://github.com/Liana64/RHCA/))
+- NixOS Config ([dotfiles](https://github.com/Liana64/dotfiles))
+- Homelab ([home-infra](https://github.com/Liana64/home-infra))
+- Notes for Red Hat Certified Architect ([RHCA](https://github.com/Liana64/RHCA/))
+- Containers ([containers](https://github.com/Liana64/containers))
