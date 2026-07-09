@@ -4,10 +4,12 @@ languageCode = "en-us"
 
 copyright = "Powered by Hugo • © Liana"
 enableEmoji = true
+enableRobotsTXT = true
 
 [params]
   description = "Personal blog"
   dateFormat = "2006-01-02"
+  favicon = "/favicon.svg"
 
 [markup]
   [markup.goldmark]
