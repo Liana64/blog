@@ -18,4 +18,4 @@ That being that when you die, it's possible that you'll be reincarnated into wor
 
 I hope you are having a lovely day, and happy new year.
 
-![a sausage](../../media/sausage.jpg)
+![a sausage](/media/sausage.jpg)
