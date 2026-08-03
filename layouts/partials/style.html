@@ -16,6 +16,13 @@
     --blockquote-color: #bdae93;
   }
 
+  html {
+    min-height: 100%;
+    background:
+      url("/mirror.svg") right 6vw bottom 8vh no-repeat,
+      var(--background-color) url("/entropy.svg");
+  }
+
   body {
     font-family: var(--font-secondary);
     font-size: var(--font-scale);
@@ -23,7 +30,6 @@
     padding: 20px;
     max-width: var(--width);
     text-align: left;
-    background-color: var(--background-color);
     word-wrap: break-word;
     overflow-wrap: break-word;
     line-height: 1.5;
