@@ -28,6 +28,7 @@ You can reach me by [email](mailto:mail@lianas.org).
 
 **Hardware**
 
+- [Hardware Prices](https://pcpartpicker.com/trends/)
 - [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [Framework Laptop](https://frame.work/)
 - [Crowdsupply](https://www.crowdsupply.com/)
