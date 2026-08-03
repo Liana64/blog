@@ -1,0 +1,15 @@
+Copyright (c) 2026 Liana Sargent
+
+This repository is covered by two different terms.
+
+SOFTWARE, DESIGN, AND ARTWORK — MIT License (see LICENSE)
+
+    Everything outside content/: the Hugo templates and partials under
+    layouts/, the ASCII artwork and other assets under static/, the site
+    configuration, Dockerfile, and nginx configuration.
+
+WRITING — All Rights Reserved
+
+    Everything under content/: the posts, pages, and accompanying media.
+    No license is granted. It may not be copied, republished, adapted, or
+    redistributed without prior written permission.
