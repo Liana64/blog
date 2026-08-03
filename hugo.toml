@@ -2,7 +2,7 @@ baseURL = "https://lianas.org/"
 title = "Liana"
 languageCode = "en-us"
 
-copyright = "Powered by Hugo • © Liana"
+copyright = "Powered by Hugo • © Liana Sargent"
 enableEmoji = true
 enableRobotsTXT = true
 
