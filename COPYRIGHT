@@ -5,8 +5,8 @@ This repository is covered by two different terms.
 SOFTWARE, DESIGN, AND ARTWORK — MIT License (see LICENSE)
 
     Everything outside content/: the Hugo templates and partials under
-    layouts/, the ASCII artwork and other assets under static/, the site
-    configuration, Dockerfile, and nginx configuration.
+    layouts/, the assets under static/, the site configuration, Dockerfile,
+    and nginx configuration.
 
 WRITING — All Rights Reserved
 
