@@ -16,6 +16,6 @@ Ongoing projects include:
 - Fighting [enshittification](https://en.wikipedia.org/wiki/Enshittification) and exploring how medium influences form
 - Volunteering more and becoming more active in local community
 
-I am currently living in Chicago, Illinois with my beloved wife, and My long-term goal is to work as a Hardware Architect. My interests include philosophy, critical theory, economics, local politics, zen buddhism, recently baseball, and learning how to be more active again.
+I am currently living in Chicago, Illinois with my beloved wife, and my long-term goal is to work as a Hardware Architect. My interests include philosophy, critical theory, economics, local politics, zen buddhism, recently baseball, and learning how to be more active again.
 
 Want to get in touch? You can reach me by [email](mailto:mail@lianas.org).
