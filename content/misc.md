@@ -4,8 +4,6 @@ menu = "main"
 weight = 4
 +++
 
-You can reach me by [email](mailto:mail@lianas.org).
-
 ## Interesting links
 
 **Chicago**
