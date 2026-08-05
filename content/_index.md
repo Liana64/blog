@@ -4,7 +4,7 @@ menu = "main"
 weight = 1
 +++
 
-Hello! I'm Liana. I like hardware but I also work on things at the OS layer! I like linux (I run NixOS and aspire to be a maintainer some day), security, and distributed systems. I operate a mini PC [kubernetes cluster](https://github.com/Liana64/home-infra) that runs on the [Talos](https://github.com/siderolabs/talos/) platform.
+Hello! I'm Liana. I like hardware but I also do work on the OS and network level! I like linux, NixOS and RHEL in particular. I specialize in enterprise hardware, security, and distributed systems. At home I operate a mini PC [kubernetes cluster](https://github.com/Liana64/home-infra) that runs on the [Talos Linux](https://github.com/siderolabs/talos/) distribution.
 
 Ongoing projects include:
 
@@ -16,8 +16,6 @@ Ongoing projects include:
 - Fighting [enshittification](https://en.wikipedia.org/wiki/Enshittification) and exploring how medium influences form
 - Volunteering more and becoming more active in local community
 
-My long-term goal is to work as a Hardware Architect. I am not looking for extra paid projects at this time, but willing to contribute to not-for-profit efforts.
-
-Aside from all that, my interests include philosophy, critical theory, economics, local politics, zen buddhism, recently baseball, and learning how to be more active again. I love my wife. Nyaa!
+I am currently living in Chicago, Illinois with my beloved wife, and My long-term goal is to work as a Hardware Architect. My interests include philosophy, critical theory, economics, local politics, zen buddhism, recently baseball, and learning how to be more active again.
 
 Want to get in touch? You can reach me by [email](mailto:mail@lianas.org).
