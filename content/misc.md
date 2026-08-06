@@ -6,6 +6,26 @@ weight = 4
 
 ## Interesting links
 
+**Linux/OS**
+
+- [NixOS](https://nixos.org/)
+- [Linux From Scratch](https://www.linuxfromscratch.org/)
+- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
+- [eBPF Party](https://ebpf.party/)
+
+**Hardware**
+
+- [Hardware Prices](https://pcpartpicker.com/trends/)
+- [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- [Framework Laptop](https://frame.work/)
+- [Crowdsupply](https://www.crowdsupply.com/)
+- [Free your robot vacuum from the cloud](https://github.com/hypfer/valetudo)
+- [OpenTools](https://www.opentools.studio/)
+
+**Tools**
+
+- [Terms of Service, Didn't Read](https://tosdr.org/en)
+
 **Chicago**
 
 - [Who Owns Chicago](https://whoownschi.miurban-dashboards.org/map_explore)
@@ -19,25 +39,6 @@ weight = 4
 - [Trans Legislation Tracker](https://translegislation.com/)
 - [Ultimate Transgender Survival Guide](https://docs.google.com/document/d/1BnpZ7sJPMKiwd7lQjMzrj2uB-ZmsBB4jZIrb-O0fdzw/)
 - [Pluralistic](https://pluralistic.net/)
-
-**Tools**
-
-- [Terms of Service, Didn't Read](https://tosdr.org/en)
-
-**Hardware**
-
-- [Hardware Prices](https://pcpartpicker.com/trends/)
-- [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
-- [Framework Laptop](https://frame.work/)
-- [Crowdsupply](https://www.crowdsupply.com/)
-- [Free your robot vacuum from the cloud](https://github.com/hypfer/valetudo)
-- [OpenTools](https://www.opentools.studio/)
-
-**Linux**
-
-- [Linux From Scratch](https://www.linuxfromscratch.org/)
-- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
-- [eBPF Party](https://ebpf.party/)
 
 **Music**
 
