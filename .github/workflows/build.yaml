@@ -3,6 +3,8 @@ name: Build and Push
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 env:
@@ -17,9 +19,6 @@ jobs:
       packages: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          submodules: recursive
-          fetch-depth: 0
 
       - name: Setup Go
         uses: actions/setup-go@v5
