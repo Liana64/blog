@@ -1,2 +1,2 @@
 {{- $url := .Destination | safeURL -}}
-<a href="{{ $url }}" target="_blank" rel="noopener"><img src="{{ $url }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }}></a>
+<a href="{{ $url }}" target="_blank" rel="noopener"><img src="{{ $url }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async"></a>
