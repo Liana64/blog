@@ -1,0 +1,22 @@
+{{ define "main" }}
+{{ .Content }}
+{{ $cutoff := now.AddDate 0 0 -14 }}
+{{ $recent := where (where site.RegularPages "Section" "posts") "Date" "ge" $cutoff }}
+{{ with $recent.ByDate.Reverse }}
+<h2>Recent posts</h2>
+<ul class="blog-posts">
+  {{ range . }}
+  <li>
+    <span>
+      <i>
+        <time datetime='{{ .Date.Format "2006-01-02" }}'>
+          {{ .Date.Format (default "02 Jan, 2006" site.Params.dateFormat) }}
+        </time>
+      </i>
+    </span>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}
+{{ end }}
