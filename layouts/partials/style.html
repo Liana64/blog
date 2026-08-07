@@ -1,9 +1,8 @@
 <style>
   :root {
     color-scheme: dark;
-    --width: 900px;
+    --width: 720px;
     --font-main: Verdana, sans-serif;
-    --font-secondary: Verdana, sans-serif;
     --font-serif: Georgia, "Noto Serif", serif;
     --font-mono: "JetBrainsMono Nerd Font", ui-monospace, monospace;
     --font-scale: 1em;
@@ -11,13 +10,13 @@
     --surface-color: #282828;
     --muted-color: #928374;
     --heading-color: #ffffff;
-    --text-color: #fffefb;
+    --text-color: #faf8f1;
     --link-color: #d3869b;
     --blockquote-color: #bdae93;
   }
 
   body {
-    font-family: var(--font-secondary);
+    font-family: var(--font-main);
     font-size: var(--font-scale);
     margin: auto;
     padding: 20px;
@@ -61,7 +60,7 @@
   time {
     font-family: var(--font-mono);
     font-style: normal;
-    font-size: 15px;
+    font-size: 0.9em;
     color: var(--muted-color);
   }
 
@@ -89,12 +88,9 @@
     border-radius: 3px;
   }
 
-  em, i, blockquote {
+  blockquote {
     font-family: var(--font-serif);
     color: var(--blockquote-color);
-  }
-
-  blockquote {
     border-left: 1px solid var(--muted-color);
     margin-inline: 3.5em 0;
     padding-left: 20px;
@@ -109,10 +105,6 @@
 
   .title:hover {
     text-decoration: none;
-  }
-
-  .title h1 {
-    font-size: 1.5em;
   }
 
   .inline {
@@ -144,6 +136,6 @@
   }
 
   ul.blog-posts li span {
-    flex: 0 0 130px;
+    flex: 0 0 110px;
   }
 </style>
