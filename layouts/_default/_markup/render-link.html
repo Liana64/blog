@@ -1,0 +1,6 @@
+{{- $url := urls.Parse .Destination -}}
+{{- $site := urls.Parse site.BaseURL -}}
+{{- $ext := path.Ext $url.Path | strings.TrimPrefix "." | lower -}}
+{{- $external := and $url.Host (ne $url.Host $site.Host) -}}
+{{- $image := in (slice "avif" "gif" "jpeg" "jpg" "png" "svg" "webp") $ext -}}
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if or $external $image }} target="_blank" rel="noopener"{{ end }}>{{ .Text }}</a>
