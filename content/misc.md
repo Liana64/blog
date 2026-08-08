@@ -13,12 +13,15 @@ weight = 4
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
 - [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/)
 - [eBPF Party](https://ebpf.party/)
+- [OWASP Principles of security](https://devguide.owasp.org/en/02-foundations/03-security-principles/)
+
+**Documentation**
+
 - [Using SELinux](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/using_selinux/index)
 - [Security hardening](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/security_hardening/index)
 - [Monitoring and managing system status and performance](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/monitoring_and_managing_system_status_and_performance/index)
 - [Factors affecting I/O and file system performance](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/managing_file_systems/factors-affecting-i-o-and-file-system-performance)
 - [Getting started with XDP and eBPF](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/configuring_firewalls_and_packet_filters/getting-started-with-xdp-and-ebpf)
-- [OWASP Principles of security](https://devguide.owasp.org/en/02-foundations/03-security-principles/)
 
 **Hardware**
 
@@ -30,7 +33,6 @@ weight = 4
 - [Crowdsupply](https://www.crowdsupply.com/)
 - [Free your robot vacuum from the cloud](https://github.com/hypfer/valetudo)
 - [OpenTools](https://www.opentools.studio/)
-- [U.S. Semiconductor Ecosystem Map](https://www.semiconductors.org/ecosystem/)
 
 **Software**
 
