@@ -48,7 +48,6 @@ weight = 4
 
 **Tools**
 
-- [Awesome Index](https://github.com/sindresorhus/awesome)
 - [Terms of Service, Didn't Read](https://tosdr.org/en)
 - [Open Secrets](https://www.opensecrets.org/)
 - [Timer.Coffee](https://app.timer.coffee/)
