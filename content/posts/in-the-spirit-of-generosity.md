@@ -25,5 +25,3 @@ If the world continues to become bad, it stands to reason that more people who b
 ![lain](/media/lain.jpeg)
 
 I hope you are having a lovely day, and happy new year.
-
-![a sausage](/media/sausage.jpg)
