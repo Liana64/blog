@@ -1,0 +1,21 @@
+{{- $self := . -}}
+{{- $root := . -}}
+{{- with .Params.parent }}{{ $root = site.GetPage . }}{{ end -}}
+{{- $items := slice -}}
+{{- range site.RegularPages -}}
+  {{- $page := . -}}
+  {{- with .Params.parent -}}
+    {{- with site.GetPage . -}}
+      {{- if eq .RelPermalink $root.RelPermalink -}}
+        {{- $items = $items | append $page -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if $items -}}
+<nav class="subnav" aria-label="Section">
+{{- range $items -}}
+<a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $self.RelPermalink }} aria-current="page"{{ end }}>/{{ trim .RelPermalink "/" }}</a>
+{{- end -}}
+</nav>
+{{- end -}}

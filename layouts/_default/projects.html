@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{ .Content }}
+{{ with where hugo.Data.projects.project "featured" true }}
+<div class="project-featured">
+  {{ range . }}
+  <div>
+    <a class="project-name" href="{{ .repo }}" target="_blank" rel="noopener">{{ .name }}</a>
+    {{ with .blurb }}<p>{{ . }}</p>{{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}
+{{ with where hugo.Data.projects.project "featured" false }}
+<div class="project-list">
+  {{ range . }}
+  <a class="project-name" href="{{ .repo }}" target="_blank" rel="noopener">{{ .name }}</a>
+  <span>{{ .blurb }}</span>
+  {{ end }}
+</div>
+{{ end }}
+{{ end }}

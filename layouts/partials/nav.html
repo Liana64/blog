@@ -1,0 +1,14 @@
+{{- $root := . -}}
+{{- with .Params.parent }}{{ with site.GetPage . }}{{ $root = . }}{{ end }}{{ end -}}
+{{- $rootURL := $root.RelPermalink -}}
+{{- $parentURL := "" -}}
+{{- with .Params.parent }}{{ with site.GetPage . }}{{ $parentURL = .RelPermalink }}{{ end }}{{ end -}}
+{{- range .Site.Menus.main -}}
+{{- $group := eq .URL $rootURL -}}
+{{- if $group }}<span class="navgroup">{{ end -}}
+<a href="{{ .URL }}"
+  {{- if $.IsMenuCurrent "main" . }} aria-current="page"
+  {{- else if and $parentURL (eq .URL $parentURL) }} aria-current="true"
+  {{- end }}>{{ if eq .URL "/" }}~{{ else }}/{{ trim .URL "/" }}{{ end }}</a>
+{{- if $group }}{{ partial "subnav.html" $ }}</span>{{ end -}}
+{{- end -}}

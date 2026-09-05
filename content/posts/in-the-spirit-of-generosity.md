@@ -8,7 +8,9 @@ I think one of the "words of the year" for me for 2026 is _generosity_. I would 
 
 I've refrained from generosity in some ways because I've thought that sharing wisdom would be taken poorly, or for fear of judgment. I've also refrained from being generous with _who I am_ because I haven't had the confidence to do so. I feel like that's changing for me this year, which I'm really happy about!
 
-*I am updating this post August 2026 and I have definitely come out of my shell! I'm excited to reflect on this post next year.*
+{{< aside >}}
+I am updating this post August 2026 and I have definitely come out of my shell! I'm excited to reflect on this post next year.
+{{< /aside >}}
 
 So, in the spirit of generosity, I'd like to speak plainly about something which I doubt many of you reading this will find novel in any way. In the off-chance that you do find it novel, well, maybe that made this post worth it. I suppose even writing here made that post worth it, since this will be my first _post_ here.
 

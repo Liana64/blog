@@ -14,11 +14,16 @@ Certainly I want to be doing this practice as frequently (spaced out) and as ear
 
 Given these conditions and the fact that the benefits I get from solitude are mostly fat-tailed, I would like to be aiming for at least two hours of solitude a day with a sweet spot of three hours on weekends.
 
-*I did a bunch of really boring math on where I could fit solitude into my schedule and found that my options are limited on weekdays because of my cats that like to scream at me in the morning and because of my long work hours.*
+
+{{< aside >}}
+I did a bunch of really boring math on where I could fit solitude into my schedule and found that my options are limited on weekdays because of my cats that like to scream at me in the morning and because of my long work hours.
+{{< /aside >}}
 
 I did find out, however, that I'm spending most of my free time with my spouse on weekdays, adding up to about six hours per day. This feels unsustainable in the long-term and likely to generate resentment on both sides without either of us having a break from each other.
 
-*We talked and rearranged the apartment a little bit and collaborated on how we can both get more time to ourselves*
+{{< aside >}}
+We talked and rearranged the apartment a little bit and collaborated on how we can both get more time to ourselves
+{{< /aside >}}
 
 Last year I did an experiment where I tracked how I was spending my time every thirty minutes and I got some interesting data but not enough to really coherently say anything. I also only tracked my time during the week, not the weekend at all.
 
