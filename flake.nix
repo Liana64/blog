@@ -2,7 +2,7 @@
   description = "lianas.org";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
+    nixpkgs.url = "github:NixOS/nixpkgs/c5c4a43b0e8056328ec4529f735cabdb8f1942bb";
   };
 
   outputs = {nixpkgs, ...}: let
@@ -11,26 +11,10 @@
       "aarch64-linux"
     ];
     forAllSystems = nixpkgs.lib.genAttrs supportedSystems;
-
-    hugoFor = pkgs:
-      pkgs.hugo.overrideAttrs (_final: _prev: rec {
-        version = "0.163.3";
-
-        src = pkgs.fetchFromGitHub {
-          owner = "gohugoio";
-          repo = "hugo";
-          tag = "v${version}";
-          hash = "sha256-o8MoGrdOXBN/HkcuRsHyyyFLvPvNo3PI0oWBlO6Xfpw=";
-        };
-
-        vendorHash = "sha256-Bn+RA+EHd3gAKL4N/ibydX7yWNKOSYnIl2pfecfOu1k=";
-      });
   in {
     packages = forAllSystems (
       system: let
         pkgs = nixpkgs.legacyPackages.${system};
-
-        hugo = hugoFor pkgs;
 
         src = pkgs.lib.fileset.toSource {
           root = ./.;
@@ -50,7 +34,7 @@
           name = "blog-hugo-modules";
           inherit src;
 
-          nativeBuildInputs = [hugo] ++ (with pkgs; [cacert git go]);
+          nativeBuildInputs = with pkgs; [cacert git go hugo];
 
           buildPhase = ''
             export HOME=$NIX_BUILD_TOP
@@ -68,7 +52,7 @@
           name = "blog-site";
           inherit src;
 
-          nativeBuildInputs = [hugo];
+          nativeBuildInputs = [pkgs.hugo];
 
           buildPhase = ''
             export HOME=$NIX_BUILD_TOP
@@ -121,7 +105,7 @@
         pkgs = nixpkgs.legacyPackages.${system};
       in {
         default = pkgs.mkShell {
-          packages = [(hugoFor pkgs) pkgs.go];
+          packages = with pkgs; [go hugo];
         };
       }
     );
