@@ -6,6 +6,6 @@
     <nav class="mainnav" aria-label="Main">{{- partial "nav.html" . -}}</nav>
   </div>
   <div class="status">
-    {{- with site.Data.status.now }}<span>now: {{ . }}</span>{{ end -}}
+    {{- `<!--# include virtual="/status/now.txt" -->` | safeHTML -}}
   </div>
 </div>

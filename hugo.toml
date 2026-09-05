@@ -11,6 +11,11 @@ enableRobotsTXT = true
   dateFormat = "2006-01-02"
   favicon = "/favicon.png"
 
+[minify]
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepSpecialComments = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -24,4 +29,3 @@ enableRobotsTXT = true
   name = "RSS"
   url = "/index.xml"
   weight = 99
-
