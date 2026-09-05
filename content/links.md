@@ -54,7 +54,7 @@ aliases = ["/directory/"]
 - [Ken Klippenstein](https://www.kenklippenstein.com/)
 - [Haskell for all](https://haskellforall.com/)
 - [The Cat House](https://www.scd31.com/)
-- [Xe Iaoso](https://xeiaso.net/)
+- [Xe Iaso](https://xeiaso.net/)
 - [Escaping Flatland](https://www.henrikkarlsson.xyz/)
 
 **Art and fashion**
