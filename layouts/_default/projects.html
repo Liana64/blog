@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ .Content }}
-{{ with where hugo.Data.projects.project "featured" true }}
+{{ with where site.Data.projects.project "featured" true }}
 <div class="project-featured">
   {{ range . }}
   <div>
@@ -10,7 +10,7 @@
   {{ end }}
 </div>
 {{ end }}
-{{ with where hugo.Data.projects.project "featured" false }}
+{{ with where site.Data.projects.project "featured" false }}
 <div class="project-list">
   {{ range . }}
   <a class="project-name" href="{{ .repo }}" target="_blank" rel="noopener">{{ .name }}</a>
