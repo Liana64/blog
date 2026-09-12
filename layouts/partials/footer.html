@@ -1,4 +1,4 @@
 {{ with .Site.Copyright }}
   <span>{{ . | safeHTML }}</span>
 {{ end }}
-<span>Last updated {{ site.Lastmod.Format site.Params.dateFormat }}</span>
+<span>Last post on {{ site.Lastmod.Format site.Params.dateFormat }}</span>
