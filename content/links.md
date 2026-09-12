@@ -13,6 +13,7 @@ aliases = ["/directory/"]
 - [Libera Chat](https://libera.chat/)
 - [Self-Hosted Software Index](https://selfh.st/apps/)
 - [Indieweb themes, tools, and resources](https://brennan.day/indieweb/)
+- [You can't fight enshittification](https://pluralistic.net/2025/07/31/unsatisfying-answers/)
 
 **Software**
 

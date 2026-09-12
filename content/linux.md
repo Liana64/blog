@@ -9,12 +9,10 @@ parent = "/links"
 ## Linux
 
 **NixOS**
-- [NixOS](https://nixos.org/)
 - [NixOS Impermanence](https://guekka.github.io/nixos-server-1/)
 
-**Misc**
-- [Universal Blue](https://universal-blue.org/)
-- [Bootc](https://bootc.dev/bootc/)
+**Security**
+- [Consolidated guide to using Yubikeys with Linux](https://marcusb.org/posts/2024/03/consolidated-guide-to-using-yubikeys-with-linux/#remotesudo)
 
 **Learning materials**
 

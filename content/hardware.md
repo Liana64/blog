@@ -8,6 +8,8 @@ parent = "/links"
 
 ## Hardware
 
+- [cpu.land](https://cpu.land/)
+
 **News**
 - [SemiAnalysis](https://newsletter.semianalysis.com/)
 
@@ -16,12 +18,10 @@ parent = "/links"
 - [Free your robot vacuum from the cloud](https://github.com/hypfer/valetudo)
 - [Colonel Panic](https://colonelpanic.tech/)
 
-**Right to repair**
-- [Framework Laptop](https://frame.work/)
-
 **Vendors**
 - [Crowdsupply](https://www.crowdsupply.com/)
 - [Adafruit](https://www.adafruit.com/)
+- [Framework Laptop](https://frame.work/)
 
 **Price tracking**
 - [Hardware Prices](https://pcpartpicker.com/trends/)
