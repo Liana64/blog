@@ -2,7 +2,6 @@
 title = "hardware"
 menu = "hardware"
 weight = 15
-columns = true
 parent = "/links"
 +++
 
