@@ -62,13 +62,9 @@ aliases = ["/directory/"]
 - [Commercial Pattern Archive](https://copa.apps.uri.edu/search.php)
 - [Free Sewing](https://freesewing.eu/)
 
-**Interesting websites**
-- [Samsara Sports Network](https://samsarasports.network/)
-- [100 Rabbits](https://100r.ca/site/home.html)
-- [Lobsters](https://lobste.rs/)
-
 **Resources**
 
+- [Veganism](https://wiki.xxiivv.com/site/vegan.html)
 - [LGBTQ Equality Map](https://mapresearch.org/equality/)
 - [LGBTQ Health Insurance Guide](https://www.out2enroll.org/)
 - [Trans Legislation Tracker](https://translegislation.com/)
