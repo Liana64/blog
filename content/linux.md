@@ -2,7 +2,6 @@
 title = "linux"
 menu = "linux"
 weight = 10
-columns = true
 parent = "/links"
 +++
 
