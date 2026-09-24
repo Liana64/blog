@@ -1,15 +1,18 @@
 baseURL = "https://lianas.org/"
 title = "Liana Sargent"
+author = "Liana Sargent"
 locale = "en-us"
 
-copyright = "Writing by Liana Sargent"
-enableEmoji = true
+copyright = "Writing by Liana Sargent under CC BY-NC 4.0"
+languageCode = "en-US"
 enableRobotsTXT = true
 
 [params]
   description = "Personal blog"
   dateFormat = "2006-01-02"
   favicon = "/favicon.png"
+
+  hideMadeWithLine = false
 
 [minify]
   [minify.tdewolff]
