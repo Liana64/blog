@@ -1,4 +1,4 @@
 {{ with .Site.Copyright }}
   <span>{{ . | safeHTML }}</span>
 {{ end }}
-<span>Last post on {{ site.Lastmod.Format site.Params.dateFormat }}</span>
+{{ if not (.Param "hideMadeWithLine") }}Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>{{ end }}
