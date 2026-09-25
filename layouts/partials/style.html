@@ -4,7 +4,7 @@
     --width: 1200px;
     --font-main: Verdana, sans-serif;
     --font-serif: Georgia, "Noto Serif", serif;
-    --font-mono: "JetBrainsMono Nerd Font", ui-monospace, monospace;
+    --font-mono: ui-monospace, monospace;
     --font-scale: 1.05em;
     --background-color: #1e191c;
     --surface-color: #292227;
@@ -106,8 +106,8 @@
     text-underline-offset: 4px;
   }
 
-  a:hover {
-    color: var(--hover-color);
+  a:hover, strong {
+    color: var(--hover-color) !important;
     background-color: var(--hover-background);
     text-decoration-color: transparent;
   }
