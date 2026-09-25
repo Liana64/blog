@@ -6,7 +6,7 @@ draft = false
 
 I came across a project today called [Spectrum OS](https://spectrum-os.org/design.html) which I am pleased to say is the *coolest and most exciting idea I have found people talking about in awhile*. I like sandboxing. I like knowing that all the little computer instructions are neatly tucked into their little boxes.
 
-I discovered [systemd unit hardening](https://www.freedesktop.org/software/systemd/man/latest/systemd.exec.html) this year and have been playing around with `systemd-analyze security`. I use faillock and usbguard now, and I qualified for a Red Hat certification on Linux Security with the help of a course from [Sander Van Vugt](www.sandervanvugt.com) which was fun! I don't claim to be an *expert* on it, though. I mean, I'm not contributing to LSM projects in the Linux kernel.
+I discovered [systemd unit hardening](https://www.freedesktop.org/software/systemd/man/latest/systemd.exec.html) this year and have been playing around with `systemd-analyze security`. I use faillock and usbguard now, and I qualified for a Red Hat certification on Linux Security with the help of a course from [Sander Van Vugt](www.sandervanvugt.com) which was fun! I don't claim to be an *expert* on it, though. I mean, I'm not contributing to LSM projects in the Linux kernel, and I still don't even fully understand mmap.
 
 Recently I've been using hardware security keys more too. I issued a GPG key, cloned it to three YubiKeys, and setup SSH over FIDO which has been very useful. I like knowing that I can actually use GPG without worrying about losing a key. I also like the fact that I have to physically verify actions.
 
