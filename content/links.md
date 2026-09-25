@@ -12,6 +12,8 @@ aliases = ["/directory/"]
 
 - [Libera Chat](https://libera.chat/)
 - [Self-Hosted Software Index](https://selfh.st/apps/)
+- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Alternatives to well-known software](https://switching.software/)
 - [Indieweb themes, tools, and resources](https://brennan.day/indieweb/)
 - [You can't fight enshittification](https://pluralistic.net/2025/07/31/unsatisfying-answers/)
 
