@@ -85,4 +85,5 @@ I have tried to move away from as many cloud providers as possible.
 **Streaming media**
 
 [Jellyfin](https://jellyfin.org/)
+
 [Arr stack](https://bytesized-hosting.com/guides/the-complete-arr-stack-guide-2026-sonarr-radarr-prowlarr-and-more)
