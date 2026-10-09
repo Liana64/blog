@@ -9,23 +9,28 @@ parent = "/links"
 
 - [cpu.land](https://cpu.land/)
 
-**News**
+### News
+
 - [SemiAnalysis](https://newsletter.semianalysis.com/)
 
-**Open source hardware**
+### Open source hardware
+
 - [OpenTools](https://www.opentools.studio/)
 - [Free your robot vacuum from the cloud](https://github.com/hypfer/valetudo)
 - [Colonel Panic](https://colonelpanic.tech/)
 
-**Vendors**
+### Vendors
+
 - [Crowdsupply](https://www.crowdsupply.com/)
 - [Adafruit](https://www.adafruit.com/)
 - [Framework Laptop](https://frame.work/)
 
-**Price tracking**
+### Price tracking
+
 - [Hardware Prices](https://pcpartpicker.com/trends/)
 - [Disk Prices](https://diskprices.com/)
 
-**References**
+### References
+
 - [Intel Microarchitectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures#Roadmap)
 - [AMD Microarchitectures](https://en.wikipedia.org/wiki/List_of_AMD_CPU_microarchitectures#x86_microarchitectures)

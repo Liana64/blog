@@ -8,49 +8,53 @@ aliases = ["/directory/"]
 
 ## Directory of links and things
 
-**Get off of platforms**
+### Get off of platforms
 
 - [Libera Chat](https://libera.chat/)
 - [Self-Hosted Software Index](https://selfh.st/apps/)
 - [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Awesome *Arr](https://github.com/Ravencentric/awesome-arr)
 - [Alternatives to well-known software](https://switching.software/)
 - [Indieweb themes, tools, and resources](https://brennan.day/indieweb/)
 - [You can't fight enshittification](https://pluralistic.net/2025/07/31/unsatisfying-answers/)
 
-**Software**
+### Software
 
 - [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/)
 - [Nix Reference Manual](https://nix.dev/reference/nix-manual.html)
 - [Weird little guys of FOSS](https://drewdevault.com/weird-guys/)
 
-**Chicago**
+### Chicago
 
 - [Pumping Station: One](https://pumpingstationone.org/)
 - [Who Owns Chicago](https://whoownschi.miurban-dashboards.org/map_explore)
 - [Landlord Mapper](https://landlordmapper.org/en/chi/home)
+- [Mellow Bike Map](https://mellowbikemap.com/)
 
-**Tools**
+### Tools
 
 - [Terms of Service, Didn't Read](https://tosdr.org/en)
 - [Open Secrets](https://www.opensecrets.org/)
 - [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
 - [Unicodes](https://unicodes.jessetane.com/)
 
-**Tidbits**
+### Tidbits
 
+- [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture)
 - [You're the OS](https://plbrault.github.io/youre-the-os/)
 - [Put the Data Center in the Box](https://newsletterhunt.com/emails/205961)
 - [complexity bad](https://grugbrain.dev/)
 - [Diátaxis](https://diataxis.fr/)
 - [1001 Albums](https://1001albumsgenerator.com/albums)
 
-**Philosophy**
+### Philosophy
 
 - [Bodhicaryāvatāra, chapter 3](https://www.lotsawahouse.org/indian-masters/shantideva/bodhicharyavatara-3)
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)
 
-**Blogs**
+### Blogs
+
 - [Pluralistic](https://pluralistic.net/)
 - [Brennan Day](https://brennan.day/)
 - [Museguided](https://museguided.substack.com/)
@@ -60,13 +64,19 @@ aliases = ["/directory/"]
 - [Xe Iaso](https://xeiaso.net/)
 - [Escaping Flatland](https://www.henrikkarlsson.xyz/)
 
-**Art and fashion**
+### Cooking
+
+- [Veganism](https://wiki.xxiivv.com/site/vegan.html)
+- [The Buddhist Chef](https://thebuddhistchef.com/)
+- [Grim Grains](https://grimgrains.com/site/home.html)
+
+### Art and fashion
+
 - [Commercial Pattern Archive](https://copa.apps.uri.edu/search.php)
 - [Free Sewing](https://freesewing.eu/)
 
-**Resources**
+### Resources
 
-- [Veganism](https://wiki.xxiivv.com/site/vegan.html)
 - [LGBTQ Equality Map](https://mapresearch.org/equality/)
 - [LGBTQ Health Insurance Guide](https://www.out2enroll.org/)
 - [Trans Legislation Tracker](https://translegislation.com/)
