@@ -8,81 +8,79 @@ parent = "/links"
 
 ### Software
 
-**Editor**
+#### Editor
 
 I use [Helix Editor](https://helix-editor.com/) because of the project's policy of minimalism in implementing core features and also because I like Rust. I've used Neovim in the past but ultimately wasn't satisfied with the plugin dependency soup.
 
-**OS**
+#### OS
 
 I like [NixOS](https://nixos.org/) because I can declare systems exactly how I want, reuse software components, and worry less about losing any material possessions! For gaming, I use a system running [Bazzite](https://bazzite.gg/).
 
-**Terminal**
+#### Terminal
 
 [Kitty](https://sw.kovidgoyal.net/kitty/) but [Alacritty](https://alacritty.org/) is nice too.
 
-**Web browser**
+#### Web browser
 
 Heavily configured [Firefox](https://www.firefox.com/en-US/).
 
-**Email**
+#### Email
 
 [Proton Mail](https://proton.me/mail) and [Thunderbird](https://www.thunderbird.net/en-US/thunderbird/all/). I am currently looking for an alternative solution.
 
-**Search**
+#### Search
 
 [Kagi](https://kagi.com/)
 
-**Notes**
+#### Notes
 
 [Obsidian](https://obsidian.md/)
 
-**Weather**
+#### Weather
 
 [Supercell Wx](https://supercellwx.net/)
-
-****
 
 ### Self-hosted
 
 I have tried to move away from as many cloud providers as possible.
 
-**Routing**
+#### Routing
 
 [OPNsense](https://opnsense.org/)
 
-**Shared calendars**
+#### Shared calendars
 
 [Radicale](https://radicale.org/)
 
-**Distributed version control**
+#### Distributed version control
 
 [Forgejo](https://forgejo.org/)
 
-**Device file-sharing**
+#### Device file-sharing
 
 [Syncthing](https://syncthing.net/)
 
-**IRC client**
+#### IRC client
 
 [The Lounge](https://thelounge.chat/)
 
-**Static site generation**
+#### Static site generation
 
 [Hugo](https://gohugo.io/)
 
-**Bookmark tracking**
+#### Bookmark tracking
 
 [Linkding](https://linkding.link/)
 
-**RSS aggregation**
+#### RSS aggregation
 
 [Miniflux](https://miniflux.app/)
 
-**Photos**
+#### Photos
 
 [Immich](https://immich.app/)
 
-**Streaming media**
+#### Streaming media
 
 [Jellyfin](https://jellyfin.org/)
 

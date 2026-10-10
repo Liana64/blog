@@ -7,20 +7,20 @@ parent = "/links"
 
 ## Linux
 
-**NixOS**
+### NixOS
 - [NixOS Impermanence](https://guekka.github.io/nixos-server-1/)
 
-**Security**
+### Security
 - [Consolidated guide to using Yubikeys with Linux](https://marcusb.org/posts/2024/03/consolidated-guide-to-using-yubikeys-with-linux/#remotesudo)
 
-**Learning materials**
+### Learning materials
 
 - [Linux From Scratch](https://www.linuxfromscratch.org/)
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
 - [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/)
 - [eBPF Party](https://ebpf.party/)
 
-**Useful documentation**
+### Useful documentation
 
 - [OWASP Principles of security](https://devguide.owasp.org/en/02-foundations/03-security-principles/)
 - [Using SELinux](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/using_selinux/index)
