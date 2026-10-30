@@ -22,8 +22,11 @@ aliases = ["/directory/"]
 
 - [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/)
-- [Nix Reference Manual](https://nix.dev/reference/nix-manual.html)
 - [Weird little guys of FOSS](https://drewdevault.com/weird-guys/)
+- [Best practices for inclusive textual websites](https://seirdy.one/posts/2020/11/23/website-best-practices/)
+- [Nix Reference Manual](https://nix.dev/reference/nix-manual.html)
+- [Kubesearch](https://kubesearch.dev/)
+- [CNCF Landscape](https://landscape.cncf.io/)
 
 ### Chicago
 
@@ -42,6 +45,8 @@ aliases = ["/directory/"]
 ### Tidbits
 
 - [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture)
+- [Don't diagnose your opponents](https://www.seangoedecke.com/dont-diagnose-your-opponents/)
+- [Surveillance Self-Defense Guide](https://ssd.eff.org/)
 - [You're the OS](https://plbrault.github.io/youre-the-os/)
 - [Put the Data Center in the Box](https://newsletterhunt.com/emails/205961)
 - [complexity bad](https://grugbrain.dev/)
@@ -59,10 +64,14 @@ aliases = ["/directory/"]
 - [Brennan Day](https://brennan.day/)
 - [Museguided](https://museguided.substack.com/)
 - [Ken Klippenstein](https://www.kenklippenstein.com/)
+- [Solene](https://dataswamp.org/~solene/)
 - [Haskell for all](https://haskellforall.com/)
 - [The Cat House](https://www.scd31.com/)
 - [Xe Iaso](https://xeiaso.net/)
 - [Escaping Flatland](https://www.henrikkarlsson.xyz/)
+- [SemiAnalysis](https://newsletter.semianalysis.com/)
+- [Sean Goedecke](https://seangoedecke.com/)
+- [Psychiatry at the Margins](https://www.psychiatrymargins.com)
 
 ### Cooking
 

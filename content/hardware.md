@@ -30,6 +30,10 @@ parent = "/links"
 - [Hardware Prices](https://pcpartpicker.com/trends/)
 - [Disk Prices](https://diskprices.com/)
 
+### Tidbits
+
+- [Branch Prediction](https://stackoverflow.com/questions/11227809/why-is-conditional-processing-of-a-sorted-array-faster-than-of-an-unsorted-array)
+
 ### References
 
 - [Intel Microarchitectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures#Roadmap)
