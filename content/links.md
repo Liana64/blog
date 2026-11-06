@@ -27,6 +27,7 @@ aliases = ["/directory/"]
 - [Nix Reference Manual](https://nix.dev/reference/nix-manual.html)
 - [Kubesearch](https://kubesearch.dev/)
 - [CNCF Landscape](https://landscape.cncf.io/)
+- [pwn.watch](https://pwn.watch/)
 
 ### Chicago
 

@@ -15,6 +15,7 @@ parent = "/links"
 
 ### Learning materials
 
+- [Linux System Call Tables](https://syscall.sh/)
 - [Linux From Scratch](https://www.linuxfromscratch.org/)
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
 - [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/)
