@@ -76,12 +76,22 @@
           contents = [root];
 
           extraCommands = ''
-            mkdir -p tmp
+            mkdir -p tmp var/status
             chmod 1777 tmp
           '';
 
           config = {
             Cmd = [
+              "${pkgs.lib.getExe pkgs.landrun}"
+              "--rox"
+              "/nix/store"
+              "--ro"
+              "/etc/nginx,/usr/share/nginx,/var/status"
+              "--rw"
+              "/tmp"
+              "--bind-tcp"
+              "8080"
+              "--"
               "${pkgs.lib.getExe pkgs.nginx}"
               "-c"
               "/etc/nginx/nginx.conf"
