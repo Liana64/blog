@@ -12,7 +12,7 @@ featured = true
 
 [[project]]
 name = "RHCA"
-blurb = "Notes for Red Hat Certified Architect in Enterprise Linux (RHCA)"
+blurb = "Notes for Red Hat Certified Architect in Enterprise Linux"
 repo = "https://github.com/Liana64/RHCA/"
 featured = false
 
@@ -22,20 +22,20 @@ blurb = "Containers for things"
 repo = "https://github.com/Liana64/containers"
 featured = false
 
+# [[project]]
+# name = "eek"
+# blurb = "Tiny LLM proxy"
+# repo = "https://github.com/Liana64/eek"
+# featured = false
+
 [[project]]
-name = "eek"
-blurb = "Tiny LLM proxy"
-repo = "https://github.com/Liana64/eek"
+name = "blog"
+blurb = "Personal website"
+repo = "https://github.com/Liana64/blog"
 featured = false
 
 [[project]]
 name = "dice"
 blurb = "Lightweight fortune generator"
 repo = "https://github.com/Liana64/dice"
-featured = false
-
-[[project]]
-name = "blog"
-blurb = "Personal website"
-repo = "https://github.com/Liana64/blog"
 featured = false
