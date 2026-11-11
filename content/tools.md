@@ -14,11 +14,11 @@ I use [Helix Editor](https://helix-editor.com/) because of the project's policy 
 
 #### OS
 
-I like [NixOS](https://nixos.org/) because I can declare systems exactly how I want, reuse software components, and worry less about losing any material possessions! For gaming, I use a system running [Bazzite](https://bazzite.gg/).
+I like [NixOS](https://nixos.org/) because I can declare systems exactly how I want, reuse software components, and worry less about losing material possessions!
 
 #### Terminal
 
-[Kitty](https://sw.kovidgoyal.net/kitty/) but [Alacritty](https://alacritty.org/) is nice too.
+[Kitty](https://sw.kovidgoyal.net/kitty/)
 
 #### Web browser
 
@@ -85,3 +85,5 @@ I have tried to move away from as many cloud providers as possible.
 [Jellyfin](https://jellyfin.org/)
 
 [Arr stack](https://bytesized-hosting.com/guides/the-complete-arr-stack-guide-2026-sonarr-radarr-prowlarr-and-more)
+
+[Plasma Bigscreen](https://plasma-bigscreen.org/)
