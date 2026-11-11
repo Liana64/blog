@@ -12,7 +12,7 @@ enableRobotsTXT = true
   dateFormat = "2006-01-02"
   favicon = "/favicon.png"
 
-  hideMadeWithLine = false
+  hideMadeWithLine = true
 
 [minify]
   [minify.tdewolff]
