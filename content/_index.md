@@ -4,7 +4,9 @@ menu = "main"
 weight = 1
 +++
 
-Hello! I'm Liana. I'm a computer engineer mostly operating in the enterprise hardware and DevSecOps space. I design systems at enterprise scale that remain resilient across multiple failure domains and, on the software side, are hardened to be reasonably secure. I like declarative configuration, reproducibility, and good systems design. I also like thinking about things (big fan of reason!), and learning. I live in Chicago with my beloved wife and our two cats. My interests include open source, philosophy, ethics, theology, biking, and making things.
+Hello! I'm Liana. I'm a computer engineer mostly operating in the enterprise hardware and DevSecOps space. I design systems at enterprise scale that remain resilient across multiple failure domains and, on the software side, are hardened to be reasonably secure. You can find me in Chicago with my beloved wife and our two cats.
+
+I like declarative configuration, reproducibility, and good systems design. I also like thinking about things (big fan of reason!), and learning. Other interests include open source, philosophy, ethics, theology, biking, and making things.
 
 Ongoing efforts include:
 
